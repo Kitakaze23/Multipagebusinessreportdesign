@@ -54,7 +54,7 @@ export function IndustryRegulationPage() {
           </div>
           <p style={{ fontSize: "var(--text-base)", color: "var(--text-primary)", lineHeight: 1.8, marginBottom: "16px" }}>
             Изменения в законодательстве напрямую влияют на операционные процессы и требуют заблаговременной подготовки. Участие в отраслевых мероприятиях позволяет быть в курсе трендов и обмениваться опытом с коллегами.
-          </div>
+          </p>
 
           <div style={{ fontSize: "var(--text-base)", fontWeight: 600, color: "var(--text-primary)", marginBottom: "12px" }}>
             Что отслеживать:
